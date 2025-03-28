@@ -23,7 +23,9 @@ Hyprshade: https://github.com/loqusion/hyprshade
 1. download the zip
 2. pick out thte ones you want (or use all of them)
 3. Unzip them into:
+   
 Option A: /usr/share/hyprshade/shaders
+
 Option B: /home/(Your_Username)/.config/hypr/shaders
 
 then do:
