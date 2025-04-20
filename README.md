@@ -33,3 +33,7 @@ hyprshade ls
 This verifies that they are installed.
 Then, just do
 hyprshade on (name of shader)
+
+
+Screenshots are here: https://github.com/loqusion/hyprshade/issues/5#issuecomment-2817325113
+
